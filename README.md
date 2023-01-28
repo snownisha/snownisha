@@ -5,6 +5,11 @@
    <a href="https://www.linkedin.com/in/snow-nisha-amala-doss-5452a9117/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
+  <a href="https://www.hackerrank.com/snownisha123">
+    <img src="https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+ 
   <a href="https://instagram.com/_snow_nisha_?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=violet" alt="Instagram Badge"/>
   </a>

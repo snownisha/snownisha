@@ -37,4 +37,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
 </div>
 <br>
-Extracurricular Interests: In addition to my professional pursuits, I enjoy challenging myself with Sudoku puzzles and staying active by playing shuttle.
+
+### :Extracurricular Interests: 
+💁‍♀️ In addition to my professional pursuits, I enjoy challenging myself with Sudoku puzzles and staying active by playing shuttle.
+:camera_flash: I am a hobbyist photographer and I would be happy to share my work with you.If you are interested in photography, please feel free to check my photographic page at [your photographic page link].

@@ -19,5 +19,5 @@
 
 
 ### About Me :
-:mage_woman:I am Snow Nisha Amala Doss
+:mage_woman:I am Snow Nisha Amala Doss<br>
 :books:Currently doing master's degree in Communication and Media Engineering at Offenburg University of Applied Sciences. 

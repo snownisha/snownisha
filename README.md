@@ -38,7 +38,7 @@
 </div>
 <br>
 
-### My Git Overview:
+### Overview of my GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Extracurricular Interests: 

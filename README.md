@@ -19,4 +19,4 @@
 
 
 ### :woman_technologist: About Me :
-
+I am Snow Nisha Amala Doss. I am currently doing master's degree in Communication and Media Engineering at Offenburg University of Applied Sciences. 

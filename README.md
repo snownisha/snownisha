@@ -26,7 +26,7 @@
 ### About Me :
 :mage_woman: I am Snow Nisha Amala Doss<br>
 :books: Currently doing master's degree in Communication and Media Engineering at Offenburg University of Applied Sciences.<br>
-:woman_technologist: I am actively seeking for the **internship/ Master Thesis opportunities** in the field of **Python/Django development** in Germany. I have gained a understanding of the Python programming language and the Django web framework through continuous learning. I am eager to apply those skills to real-life problems.<br>
+:dart: I am actively seeking for the **internship/ Master Thesis opportunities** in the field of **Python/Django development** in Germany. I have gained a understanding of the Python programming language and the Django web framework through continuous learning. I am eager to apply those skills to real-life problems.<br>
 :envelope: Don't be shy, just slide into my inbox if you're feeling adventurous and want to offer me an internship:wink:. My email is [snownisha123@gmail.com] Who knows, it might be the start of a beautiful working relationship.
 
 ### :hammer_and_wrench: Languages and Tools :

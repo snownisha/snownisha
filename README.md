@@ -39,7 +39,7 @@
 <br>
 
 ### Overview of my GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
+[![GitHub Streak](http://github-readme-streak-stats.snownisha.com?user=snownisha&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snownisha&layout=compact&theme=vision-friendly-dark)](https://github.com/snownisha/github-readme-stats)
 
 ### Extracurricular Interests: 

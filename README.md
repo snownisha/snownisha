@@ -39,7 +39,7 @@
 <br>
 
 ### My Git Status:
-https://github-readme-streak-stats.herokuapp.com/?user=snownisha
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Extracurricular Interests: 
 💁‍♀️ In addition to my professional pursuits, I enjoy challenging myself with Sudoku puzzles and staying active by playing shuttle.<br>

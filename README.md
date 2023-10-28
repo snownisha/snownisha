@@ -42,7 +42,7 @@
 
 ### Overview of my GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snownisha&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snownisha&layout=compact&theme=vision-friendly-dark)]<br>
 
 ### Extracurricular Interests: 
 💁‍♀️ In addition to my professional pursuits, I enjoy challenging myself with Sudoku puzzles and staying active by playing shuttle.<br>

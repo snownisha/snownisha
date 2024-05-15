@@ -43,6 +43,8 @@ Hello!
 **⚙️ Tools:**
 <div>
 <img src="https://github.com/snownisha/snownisha/assets/93483438/b0fc60fa-a231-45f8-a522-e095023fac05"  title="github" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="azure_repo" alt="azure" width="40" height="40"/>&nbsp;
 
 </div>

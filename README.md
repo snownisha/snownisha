@@ -1,4 +1,4 @@
- Hello!
+![image](https://github.com/snownisha/snownisha/assets/93483438/b0fc60fa-a231-45f8-a522-e095023fac05) Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
   <div id="badges">
@@ -43,7 +43,7 @@
 
 ⚙️Tools:
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://icons8.com/icon/12599/github"  title="github" alt="github" width="40" height="40"/>&nbsp;
  
 </div>
 <br>

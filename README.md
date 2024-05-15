@@ -1,4 +1,4 @@
-![image](https://github.com/snownisha/snownisha/assets/93483438/b0fc60fa-a231-45f8-a522-e095023fac05) Hello!
+Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
   <div id="badges">

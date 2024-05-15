@@ -43,7 +43,7 @@
 
 ⚙️Tools:
 <div>
- <img src="https://icons8.com/icon/12599/github"  title="github" alt="github" width="40" height="40"/>&nbsp;
+ <img src="https://www.iconfinder.com/icons/1298743/github_git_logo_social_icon"  title="github" alt="github" width="40" height="40"/>&nbsp;
  
 </div>
 <br>

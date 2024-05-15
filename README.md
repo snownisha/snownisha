@@ -45,7 +45,7 @@ Hello!
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="azure_repo" alt="azure" width="40" height="40"/>&nbsp;
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+https://colab.research.google.com/github/weiji14/deepbedmap/
 
 </div>
 <br>

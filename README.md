@@ -27,7 +27,7 @@
 :mage_woman: I am Snow Nisha Amala Doss<br>
 :house_with_garden: Indian (Residing in Landshut, Bavaria, Germany)<br>
 :books: Graduated master's degree in Communication and Media Engineering at Offenburg University of Applied Sciences, Germany.<br>
-:dart: I am actively seeking for the full time job opportunities in the field of **Python/Django development** in Germany/ India. I have gained a understanding of the Java, Python programming and the Django web framework through continuous learning. I am eager to apply those skills to real-life problems.<br>
+:dart: With a background in project coordination and a passion for software development, I am actively seeking for the full time opportunities in **software development(Germany/ India)**. Through self-directed learning in java and python, I dedicated myself to honing my coding skills. This journey not only equipped me with the ability to write efficient and scalable code but also exposed a genuine passion for software development. I am now eager to channel this passion into contributing to innovative projects and driving impactful change.<br>
 :envelope: Don't be shy, just slide into my inbox if you're feeling adventurous and want to offer me a job:wink:. My email is snownisha123@gmail.com,Who knows, it might be the start of a beautiful working relationship.
 
 ### :hammer_and_wrench: Languages and Tools :

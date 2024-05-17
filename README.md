@@ -55,4 +55,4 @@ Hello!
 
 ### Extracurricular Interests: 
 💁‍♀️ In addition to my professional pursuits, I enjoy challenging myself with Sudoku puzzles and staying active by playing shuttle.<br>
-:camera_flash: I am a hobbyist photographer and I am happy to share my work with you.If you are interested in photography, please feel free to check my photographic page at https://instagram.com/_high_on_click?igshid=YmMyMTA2M2Y=.
+:camera_flash: I am a hobbyist photographer and I am happy to share my work with you.If you are interested in photography, please feel free to check my photographic page🎥 at https://instagram.com/_high_on_click?igshid=YmMyMTA2M2Y=.

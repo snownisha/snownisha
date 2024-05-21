@@ -19,7 +19,7 @@ Hello!
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="400" height="300"/>
 </div>
 
 

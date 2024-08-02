@@ -25,7 +25,7 @@ Hello!
 
 ### About Me :
 :mage_woman: I am Snow Nisha Amala Doss<br>
-:house_with_garden: Indian (Residing in Landshut, Bavaria, Germany)<br>
+:house_with_garden: Indian (Residing in Trichy)<br>
 :books: Graduated master's degree in Communication and Media Engineering at Offenburg University of Applied Sciences, Germany.<br>
 :dart: With a background in project coordination and a passion for software development, I am actively seeking for the full time opportunities in **software development(India)**. Through self-directed learning in java and python, I dedicated myself to honing my coding skills. This journey not only equipped me with the ability to write efficient and scalable code but also exposed a genuine passion for software development. I am now eager to channel this passion into contributing to innovative projects and driving impactful change.<br>
 :envelope: Don't be shy, just slide into my inbox if you're feeling adventurous and want to offer me a job:wink:. My email is snownisha123@gmail.com,Who knows, it might be the start of a beautiful working relationship.

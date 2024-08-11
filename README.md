@@ -43,17 +43,24 @@ Hello!
 
 </div>
 
-### :wrench:Tools
+### :wrench: Tools & IDEs
 <div>
 <img src="https://github.com/snownisha/snownisha/assets/93483438/b0fc60fa-a231-45f8-a522-e095023fac05"  title="github" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="azure_repo" alt="azure" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Code" alt="VSC" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
 <br>
+
+### :wrench:Python Libraries
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg"  title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+
+</div>
+<br>
+
 
 ### Overview of my GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)] <br><br>

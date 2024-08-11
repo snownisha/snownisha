@@ -10,7 +10,7 @@ Hello!
     <img src="https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
  
-  <a href="https://www.instagram.com/snow_nishh/">
+  <a href="https://www.instagram.com/snow_nishaa/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=violet" alt="Instagram Badge"/>
   </a>
   <br>

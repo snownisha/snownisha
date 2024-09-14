@@ -63,8 +63,7 @@ Hello!
 
 ### Overview of my GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)] <br><br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snownisha&layout=compact&langs_count=20&theme=vision-friendly-dark&card_width=500)](https://github.com/snownisha)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snownisha&layout=compact&langs_count=4&theme=vision-friendly-dark)](https://github.com/snownisha)
 
 
 ### Extracurricular Interests: 

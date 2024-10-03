@@ -65,7 +65,9 @@ Hello!
 <br>
 
 ### :books: Currently Learning
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp; </div>
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
 
 ### Overview of my GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)] <br><br>

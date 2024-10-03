@@ -64,6 +64,9 @@ Hello!
 </div>
 <br>
 
+### :books: Currently Learning
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp; </div>
+
 ### Overview of my GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snownisha&theme=dark&background=000000)] <br><br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snownisha&layout=compact&langs_count=20&theme=vision-friendly-dark&card_width=500)](https://github.com/snownisha)
